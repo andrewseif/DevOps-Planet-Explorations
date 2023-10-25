@@ -1,2 +1,65 @@
 Containers
   Docker
+  LXC
+Container Runtime
+  Crio
+  Containerd
+  Docker
+Container Scanning
+K8s Distro
+  Rancher
+  K3s
+  Openshift
+  EKS
+  AKS
+K8s Package Management
+  Helm/helmfile
+  Kustomize
+Service Mesh
+  Cilium
+  Istio
+Chaos Engineering
+  Chaos Mesh
+Key Vault
+  Hashicorp Vault
+Programming Languages
+  C++
+  Go
+  NodeJS
+  C#
+  Java
+Database
+  SQL
+    PostgreSQL
+    Neon
+    SQL Server
+    AWS Aurora
+  NoSQL
+    MongoDB
+    DynamoDB
+  In-Memory/Caching
+    Redis
+  KV store
+    etcd
+Data Warehouse
+  Snowflake
+DBMS
+  Liquibase
+Cloud native Storage
+  Ceph
+  Longhorn
+Monitoring & Obsv
+  ELK
+  Grafana
+  Datadog
+CI
+  GitLab
+  Github Actions
+CD
+  ArgoCD
+  FluxCD
+  Jenkins
+Automation
+  Ansible
+Infra as Code
+  Terraform (OpenToFu)

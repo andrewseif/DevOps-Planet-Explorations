@@ -6,10 +6,12 @@ Container Runtime
   Containerd
   Docker
 Container Scanning
+  Trivy
 K8s Distro
   Rancher
   K3s
   Openshift
+  Kubeadm
   EKS
   AKS
 K8s Package Management
@@ -22,12 +24,18 @@ Chaos Engineering
   Chaos Mesh
 Key Vault
   Hashicorp Vault
+Cloud Providers
+  AWS
+  Azure
+  Linode
 Programming Languages
   C++
   Go
   NodeJS
   C#
   Java
+  Python
+  Bash
 Database
   SQL
     PostgreSQL
@@ -41,6 +49,17 @@ Database
     Redis
   KV store
     etcd
+  Object Storage
+    MinIO
+    S3
+Queues
+  RabbitMQ
+  Kafka
+Load Balancer
+  HA Proxy
+Virtualization
+  ESXi
+  Proxmox
 Data Warehouse
   Snowflake
 DBMS
@@ -63,3 +82,9 @@ Automation
   Ansible
 Infra as Code
   Terraform (OpenToFu)
+Other Management Tools
+  Jira
+  Freshdesk
+  PagerDuty
+  Postman
+  Airflow
